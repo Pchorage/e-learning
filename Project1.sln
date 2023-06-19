@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{CD2768A7-509B-4A54-8DBE-0F60A1672139}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Q Mathematics", "Q Mathematics\Q Mathematics.vdproj", "{F03424EB-B336-4CC2-92BC-108A9D4D4BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2768A7-509B-4A54-8DBE-0F60A1672139}.Debug|x64.ActiveCfg = Debug|x64
+		{CD2768A7-509B-4A54-8DBE-0F60A1672139}.Debug|x64.Build.0 = Debug|x64
+		{CD2768A7-509B-4A54-8DBE-0F60A1672139}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD2768A7-509B-4A54-8DBE-0F60A1672139}.Debug|x86.Build.0 = Debug|Win32
+		{CD2768A7-509B-4A54-8DBE-0F60A1672139}.Release|x64.ActiveCfg = Release|x64
+		{CD2768A7-509B-4A54-8DBE-0F60A1672139}.Release|x64.Build.0 = Release|x64
+		{CD2768A7-509B-4A54-8DBE-0F60A1672139}.Release|x86.ActiveCfg = Release|Win32
+		{CD2768A7-509B-4A54-8DBE-0F60A1672139}.Release|x86.Build.0 = Release|Win32
+		{F03424EB-B336-4CC2-92BC-108A9D4D4BE8}.Debug|x64.ActiveCfg = Debug
+		{F03424EB-B336-4CC2-92BC-108A9D4D4BE8}.Debug|x86.ActiveCfg = Debug
+		{F03424EB-B336-4CC2-92BC-108A9D4D4BE8}.Release|x64.ActiveCfg = Release
+		{F03424EB-B336-4CC2-92BC-108A9D4D4BE8}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F00530-EFB0-47B4-89A4-8846796DAB5B}
+	EndGlobalSection
+EndGlobal
